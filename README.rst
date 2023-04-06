@@ -419,16 +419,6 @@ Execute the following commands::
     git push origin --tags
 
 
-Commercial Support
-==================
-
-.. image:: https://avatars2.githubusercontent.com/u/5529080?s=80&v=4
-  :alt: Vinta Logo
-  :target: https://www.vinta.com.br
-
-This project, as other `Vinta Software <https://www.vinta.com.br/>`_ open-source projects is used in products of Vinta's clients. We are always looking for exciting work, so if you need any commercial support, feel free to get in touch: contact@vinta.com.br
-
-
 
 .. _Django: http://djangoproject.com
 .. |GitterBadge| image:: https://badges.gitter.im/vintasoftware/django-templated-email.svg
